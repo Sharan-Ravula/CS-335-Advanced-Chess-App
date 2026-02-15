@@ -1,4 +1,4 @@
-Its obvious but run the commands in terminal/powershell ;)
+Run these commands in terminal/powershell ;)
 
 1. Create a Virtual Environment in the path you open the file:
 	
