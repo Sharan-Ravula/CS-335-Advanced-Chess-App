@@ -1,4 +1,5 @@
-# Advanced Chess App: By Sharan Ravula
+# Advanced Chess App:
+**Developed by: Sharan Ravula**
 
 ---
 
