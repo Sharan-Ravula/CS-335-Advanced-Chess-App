@@ -71,6 +71,6 @@
 	  ```powershell
 	  python Project3.py 
 
-[CS 335 Advanced Chess App DEMO](https://youtu.be/bkTYcTyMHc0)
+5. Demo Video: [CS 335 Advanced Chess App DEMO](https://youtu.be/bkTYcTyMHc0)
 
 > To exit from the virtual environment just type `deactivate` in the command shell and press enter
