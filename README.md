@@ -14,6 +14,8 @@
 	  ```bash	
 	  python3 -m venv venv
 	  source venv/bin/activate
+
+   		> To exit from the virtual environment just type `deactivate` in the command shell and press enter
 	
 	- Windows:
 
@@ -69,10 +71,7 @@
 	- Windows:
 
 	  ```powershell
-	  python Project3.py 
-
-> To exit from the virtual environment just type `deactivate` in the command shell and press enter
-
+	  python Project3.py
+   
 5. Demo Video: [CS 335 Advanced Chess App DEMO](https://youtu.be/bkTYcTyMHc0)
-
 
