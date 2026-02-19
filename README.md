@@ -95,18 +95,18 @@ I implemented several advanced features that were missing from the original foun
 	 ```bash
 	 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-   - **Windows**: On Windows, you can use Chocolatey as a package manager.
+   - Windows: On Windows, you can use Chocolatey as a package manager.
      	
 		> Note: If you prefer to use Homebrew on Windows, consider installing it via WSL (Windows Subsystem for Linux) and following the macOS instructions within your WSL terminal.
      
 	    > Open PowerShell as Administrator.
      
-	    - **Run the following command to install Chocolatey**:
+	    - Run the following command to install Chocolatey:
         
 	      ```powershell
 		  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-	 	- **Close and reopen your PowerShell, then verify Chocolatey is installed**:
+	 	- Close and reopen your PowerShell, then verify Chocolatey is installed:
    	  
           ```powershell
 		  choco --version
