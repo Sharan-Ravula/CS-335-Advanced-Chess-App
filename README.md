@@ -131,12 +131,12 @@ I implemented several advanced features that were missing from the original foun
 	 - macOS/Linux:
 
 	   ```bash	
-	   python3 Project3.py
+	   python3 chess_app.py
 
 	- Windows:
 
 	  ```powershell
-	  python Project3.py
+	  python chess_app.py
 
 ---
 
