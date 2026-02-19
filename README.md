@@ -143,7 +143,7 @@ I implemented several advanced features that were missing from the original foun
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 CS-335-Advanced-Chess-App/
