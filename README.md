@@ -14,7 +14,7 @@ The app features a complete implementation of chess logic, including special mov
 
 A huge shout-out to the following resources that provided the foundation and assets for this project:
 
-- Logic & Foundation: Inspired by LeMaster Tech. While the base code was used as a starting point, I heavily modified and expanded it to include complex game rules (illegal moves, castling, promotion) and UI enhancements.
+- Logic & Foundation: Inspired by `LeMaster Tech`. While the base code was used as a starting point, I heavily modified and expanded it to include complex game rules (illegal moves, castling, promotion) and UI enhancements.
   
 - Video Link: [How to Make Chess in Python! - LeMaster Tech](https://youtu.be/X-e0jk4I938)
   
@@ -22,7 +22,7 @@ A huge shout-out to the following resources that provided the foundation and ass
   
 - Primary Assets: Graphics for the standard piece set were provided by `LeMaster Tech`.
   
-- Alternate Assets: The SVG piece set was sourced from [Green Chess](https://greenchess.net/info.php?item=downloads), specifically the `Standard chess pieces [SVG]`.
+- Alternate Assets: The SVG piece set was sourced from [`Green Chess`](https://greenchess.net/info.php?item=downloads), specifically the `Standard chess pieces [SVG]`.
 
 ---
 
